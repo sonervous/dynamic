@@ -8,7 +8,6 @@
 <a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">ShadowsocksX-NG</a>
 
 <a href="https://github.com/Cenmrev/V2RayX/releases">V2RayX</a>
-
 <a href="https://www.iterm2.com/downloads.html">iTerm2</a>
 
 </body>
