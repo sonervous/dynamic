@@ -11,8 +11,6 @@
 
 <a href="https://www.iterm2.com/downloads.html">iTerm2</a>
 
-
-
 </body>
 
 </html>
