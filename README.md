@@ -1,4 +1,5 @@
 # dynamic
+## Markdown基本语法
 
 [ShadowsocksX-NG](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
 
