@@ -1,5 +1,5 @@
 # dynamic
-#### Markdown基本语法 [Markdown](https://www.jianshu.com/p/191d1e21f7ed)
+### Markdown基本语法 [Markdown](https://www.jianshu.com/p/191d1e21f7ed)
 
 [ShadowsocksX-NG](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
 
